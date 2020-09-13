@@ -1,0 +1,31 @@
+body {
+  background-image: url("paper.gif");
+  background-repeat: repeat-x;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+footer {
+  margin-top: 720px;
+  margin-left: 770px;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.logo
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background: #808080;
+    border-top: 50px solid #000;
+    border-right: 50px; 
+}
